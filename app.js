@@ -27,7 +27,7 @@ const html = `
     </script>
     <style>
         body {
-            color: white;
+            color: black;
             font-family: 'Times New Roman', Times, serif ;
             font-size: 14px;
             text-align: center;
